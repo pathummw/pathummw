@@ -6,16 +6,16 @@ I’m currently studying Frontend development at KYH, Stockholm. I love writing 
 
 ## Languages and tools
 
-Javascript
-React
-HTML5
-CSS3
-SASS
-C++
-Photoshop
-Figma
-SQL
-Firebase
++ Javascript
++ React
++ HTML5
++ CSS3
++ SASS
++ C++
++ SQL
++ Firebase
++ Photoshop
++ Figma
 
 ### How to reach me:
 
@@ -23,6 +23,6 @@ Firebase
 
 :globe_with_meridians: https://pathum.surge.sh/
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pathum-weerathunga-87248a56/)
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pathum-weerathunga-87248a56/)
 
 
