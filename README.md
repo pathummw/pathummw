@@ -16,4 +16,5 @@ U+2638
 
 :globe_with_meridians: https://pathum.surge.sh/
 
-<a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
