@@ -23,6 +23,6 @@ I’m currently studying Frontend development at KYH, Stockholm. I love writing 
 
 :globe_with_meridians: https://pathum.surge.sh/
 
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pathum-weerathunga-87248a56/)
+ &nbsp;&nbsp;&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pathum-weerathunga-87248a56/)
 
 
