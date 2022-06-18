@@ -7,7 +7,10 @@ I’m currently studying Frontend development at KYH, Stockholm. I love writing 
 ## Languages and tools
 
 + Javascript
-+ React
++ React 
++ Redux
++ Vue
++ Vuex
 + HTML5
 + CSS3
 + SASS
